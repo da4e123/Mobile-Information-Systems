@@ -213,4 +213,3 @@ class _CategoryCardState extends State<CategoryCard> {
     );
   }
 }
-
